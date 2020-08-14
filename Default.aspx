@@ -2,6 +2,6 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div class="row">
-        <h2>App service deployments - Web deploy , GITHUB adjhklajsdlakj</h2>   
+        <h2>App service deployments - Web  , GITHUB adjhklajsdlakj</h2>   
     </div>
 </asp:Content>
